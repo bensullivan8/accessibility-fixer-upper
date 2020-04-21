@@ -11,6 +11,10 @@ ul .skip-links li {
   text-decoration: underline;
 }
 
+.underline {
+  text-decoration: underline;
+}
+
 .color-brand {
   color: #568c36;
 }
