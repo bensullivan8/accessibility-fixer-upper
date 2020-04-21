@@ -25,7 +25,6 @@ ul .skip-links li {
 
 a {
   color: #568c36;
-  text-decoration: none;
 }
 
 a:hover {
@@ -46,7 +45,6 @@ a:hover {
 
 .nav a {
   color: #fff;
-  text-decoration: none;
 }
 
 .nav a:hover {
